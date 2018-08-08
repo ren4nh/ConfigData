@@ -1,1 +1,1 @@
-# ConfigData
+Spring Cloud Config Server files
